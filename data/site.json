@@ -1,0 +1,28 @@
+{
+  "name": "Brian Dominguez",
+  "role": "Audiobook narrator",
+  "base_url": "https://briandominguezvoice.com",
+  "cname": null,
+  "draft": true,
+  "updated": "2026-10-31",
+  "description": "Brian Dominguez narrates audiobooks: the espionage series The Disavowed, science fiction and practical nonfiction, plus his own book, Sam on the Way.",
+  "bio_short": "Brian Dominguez is an audiobook narrator with {count} titles on Audible, including the espionage series The Disavowed, and the author and narrator of Sam on the Way.",
+  "bio": [
+    "Brian Dominguez narrates audiobooks for independent authors. Since 2025 he has recorded {count} titles for Audible, from espionage thrillers and science fiction to practical guides on money, business and relationships.",
+    "He voiced all four books of Tobey Alvarez's espionage series The Disavowed, so listeners hear one voice from the first book to the latest.",
+    "He also wrote Sam on the Way, letters from a father-to-be to his unborn son over the nine months before the birth. It first came out as a paperback in 2008, and Brian recorded the audiobook himself in 2026."
+  ],
+  "photo": null,
+  "contact": {
+    "email": null,
+    "acx_profile": null
+  },
+  "same_as": [
+    "https://www.audible.com/search?searchNarrator=Brian+Dominguez"
+  ],
+  "featured": {
+    "series": "the-disavowed",
+    "own_book": "sam-on-the-way",
+    "own_book_note": "First published as a paperback in 2008"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "narrator": {
+    "name": "Brian Dominguez",
+    "role": "Audiobook narrator",
+    "url": "https://briandominguezvoice.com/",
+    "same_as": [
+      "https://www.audible.com/search?searchNarrator=Brian+Dominguez"
+    ]
+  },
+  "updated": "2026-10-31",
+  "audiobooks": [
+    {
+      "title": "The Disavowed: Project Null",
+      "subtitle": null,
+      "authors": [
+        "Tobey Alvarez"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Tobey Alvarez",
+      "released": "2026-10-10",
+      "length_minutes": 196,
+      "genre": "Espionage thriller",
+      "series": {
+        "name": "The Disavowed",
+        "slug": "the-disavowed",
+        "position": 4
+      },
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/the-disavowed-project-null/",
+      "audible": "https://www.audible.com/pd/B0HMM5Z5QZ",
+      "apple_books": null,
+      "amazon": "https://www.amazon.com/s?i=audible&k=The+Disavowed%3A+Project+Null+Brian+Dominguez",
+      "sample": "https://samples.audible.com/bk/acx0/536881/bk_acx0_536881_sample.mp3"
+    },
+    {
+      "title": "The Disavowed: Project Vanguard",
+      "subtitle": null,
+      "authors": [
+        "Tobey Alvarez"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Tobey Alvarez",
+      "released": "2026-08-10",
+      "length_minutes": 179,
+      "genre": "Espionage thriller",
+      "series": {
+        "name": "The Disavowed",
+        "slug": "the-disavowed",
+        "position": 3
+      },
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/the-disavowed-project-vanguard/",
+      "audible": "https://www.audible.com/pd/B0HDQ2551C",
+      "apple_books": "https://books.apple.com/us/audiobook/the-disavowed-project-vanguard-unabridged/id6800102374",
+      "amazon": "https://www.amazon.com/s?i=audible&k=The+Disavowed%3A+Project+Vanguard+Brian+Dominguez",
+      "sample": "https://samples.audible.com/bk/acx0/524963/bk_acx0_524963_sample.mp3"
+    },
+    {
+      "title": "Financial Freedom After Divorce",
+      "subtitle": "A 90-Day Checklist to Rebuild Your Solo Finances",
+      "authors": [
+        "Nohelia Alcas"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Nohelia Alcas Arce",
+      "released": "2026-07-02",
+      "length_minutes": 142,
+      "genre": "Personal finance",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/financial-freedom-after-divorce/",
+      "audible": "https://www.audible.com/pd/B0H763J376",
+      "apple_books": "https://books.apple.com/us/audiobook/financial-freedom-after-divorce-a-90-day-checklist/id6786745909",
+      "amazon": "https://www.amazon.com/s?i=audible&k=Financial+Freedom+After+Divorce+Brian+Dominguez",
+      "sample": "https://samples.audible.com/bk/acx0/518520/bk_acx0_518520_sample.mp3"
+    },
+    {
+      "title": "What's So Special About Rome?",
+      "subtitle": "A Solva Publishing Travel Guide",
+      "authors": [
+        "Barnaby Sorrens"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Solva Publishing",
+      "released": "2026-06-18",
+      "length_minutes": 152,
+      "genre": "Travel",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/whats-so-special-about-rome/",
+      "audible": "https://www.audible.com/pd/B0H5RL95NL",
+      "apple_books": "https://books.apple.com/us/audiobook/whats-so-special-about-rome-a-solva-publishing/id6781720859",
+      "amazon": "https://www.amazon.com/dp/B0H5RGFYTB",
+      "sample": "https://samples.audible.com/bk/acx0/516445/bk_acx0_516445_sample.mp3"
+    },
+    {
+      "title": "The Disavowed: The Tribunal's Shadow",
+      "subtitle": null,
+      "authors": [
+        "Tobey Alvarez"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Tobey Alvarez",
+      "released": "2026-03-25",
+      "length_minutes": 240,
+      "genre": "Espionage thriller",
+      "series": {
+        "name": "The Disavowed",
+        "slug": "the-disavowed",
+        "position": 2
+      },
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/the-disavowed-the-tribunals-shadow/",
+      "audible": "https://www.audible.com/pd/B0GTWKFHJS",
+      "apple_books": "https://books.apple.com/us/audiobook/the-disavowed-the-tribunals-shadow-unabridged/id1888368850",
+      "amazon": "https://www.amazon.com/s?i=audible&k=The+Disavowed%3A+The+Tribunal%27s+Shadow+Brian+Dominguez",
+      "sample": "https://samples.audible.com/bk/acx0/500456/bk_acx0_500456_sample.mp3"
+    },
+    {
+      "title": "Sam on the Way",
+      "subtitle": null,
+      "authors": [
+        "Brian Dominguez"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "GreenJay Solutions",
+      "released": "2026-03-20",
+      "length_minutes": 36,
+      "genre": "Fatherhood",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/sam-on-the-way/",
+      "audible": "https://www.audible.com/pd/B0GT6PSBYS",
+      "apple_books": "https://books.apple.com/us/audiobook/sam-on-the-way-unabridged/id1886900428",
+      "amazon": "https://www.amazon.com/dp/B0GT732828",
+      "sample": "https://samples.audible.com/bk/acx0/501373/bk_acx0_501373_sample.mp3"
+    },
+    {
+      "title": "The Disavowed: The Ninth Division",
+      "subtitle": null,
+      "authors": [
+        "Tobey Alvarez"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Tobey Alvarez",
+      "released": "2026-01-27",
+      "length_minutes": 252,
+      "genre": "Espionage thriller",
+      "series": {
+        "name": "The Disavowed",
+        "slug": "the-disavowed",
+        "position": 1
+      },
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/the-disavowed-the-ninth-division/",
+      "audible": "https://www.audible.com/pd/B0GJTHGW31",
+      "apple_books": "https://books.apple.com/us/audiobook/the-disavowed-the-ninth-division-unabridged/id1872452376",
+      "amazon": "https://www.amazon.com/dp/B0GJTTD2CJ",
+      "sample": "https://samples.audible.com/bk/acx0/492665/bk_acx0_492665_sample.mp3"
+    },
+    {
+      "title": "The Painted Man",
+      "subtitle": null,
+      "authors": [
+        "David Medina"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "David Emmanuel Medina",
+      "released": "2025-12-16",
+      "length_minutes": 23,
+      "genre": "Family drama",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/the-painted-man/",
+      "audible": "https://www.audible.com/pd/B0G72Q3PQR",
+      "apple_books": "https://books.apple.com/us/audiobook/the-painted-man-unabridged/id1861844940",
+      "amazon": "https://www.amazon.com/dp/B0G72PMFHS",
+      "sample": "https://samples.audible.com/bk/acx0/486376/bk_acx0_486376_sample.mp3"
+    },
+    {
+      "title": "Reverse Psychology",
+      "subtitle": "The Art of Influence and Indirect Persuasion",
+      "authors": [
+        "James Rietz"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "James A Rietz",
+      "released": "2025-11-03",
+      "length_minutes": 105,
+      "genre": "Psychology",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/reverse-psychology/",
+      "audible": "https://www.audible.com/pd/B0FZD6NP24",
+      "apple_books": "https://books.apple.com/us/audiobook/reverse-psychology-the-art-of-influence/id1850564237",
+      "amazon": "https://www.amazon.com/dp/B0FZCZSV92",
+      "sample": "https://samples.audible.com/bk/acx0/478480/bk_acx0_478480_sample.mp3"
+    },
+    {
+      "title": "Blueprint for Success",
+      "subtitle": "Strategies for Excellence in Life and Business",
+      "authors": [
+        "James A Rietz"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "James A Rietz",
+      "released": "2025-09-19",
+      "length_minutes": 83,
+      "genre": "Self-help",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/blueprint-for-success/",
+      "audible": "https://www.audible.com/pd/B0FRNHFTFL",
+      "apple_books": "https://books.apple.com/us/audiobook/blueprint-for-success-strategies-for-excellence-in/id1840922766",
+      "amazon": "https://www.amazon.com/dp/B0FRNDZLTJ",
+      "sample": "https://samples.audible.com/bk/acx0/469824/bk_acx0_469824_sample.mp3"
+    },
+    {
+      "title": "How to Talk to Women",
+      "subtitle": "Make Her Instantly Attracted with Effortless, Playful Conversation, and Never Run Out of Things to Say",
+      "authors": [
+        "Mark Anderson"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Mark Anderson",
+      "released": "2025-08-25",
+      "length_minutes": 151,
+      "genre": "Relationships",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/how-to-talk-to-women/",
+      "audible": "https://www.audible.com/pd/B0FNGCQWQ7",
+      "apple_books": "https://books.apple.com/us/audiobook/how-to-talk-to-women-make-her-instantly-attracted-with/id1835428913",
+      "amazon": "https://www.amazon.com/dp/B0FNGD8VWW",
+      "sample": "https://samples.audible.com/bk/acx0/465789/bk_acx0_465789_sample.mp3"
+    },
+    {
+      "title": "Understanding the Circular Economy",
+      "subtitle": "Strategies for a Sustainable Future",
+      "authors": [
+        "Clement Pereira"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Clement Pereira",
+      "released": "2025-06-09",
+      "length_minutes": 104,
+      "genre": "Business",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/understanding-the-circular-economy/",
+      "audible": "https://www.audible.com/pd/B0FC7SFB4K",
+      "apple_books": "https://books.apple.com/us/audiobook/understanding-the-circular-economy-strategies-for/id1819514429",
+      "amazon": "https://www.amazon.com/dp/B0FC83GKZX",
+      "sample": "https://samples.audible.com/bk/acx0/453018/bk_acx0_453018_sample.mp3"
+    },
+    {
+      "title": "Shock Therapy: Managing Money",
+      "subtitle": "Because Broke Is Optional, and Denial Is Expensive",
+      "authors": [
+        "Brent Mondoux"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Brent Mondoux",
+      "released": "2025-04-29",
+      "length_minutes": 51,
+      "genre": "Personal finance",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/shock-therapy-managing-money/",
+      "audible": "https://www.audible.com/pd/B0F6QXNMW2",
+      "apple_books": "https://books.apple.com/us/audiobook/shock-therapy-managing-money-because-broke-is-optional/id1811385845",
+      "amazon": "https://www.amazon.com/s?i=audible&k=Shock+Therapy%3A+Managing+Money+Brian+Dominguez",
+      "sample": "https://samples.audible.com/bk/acx0/445966/bk_acx0_445966_sample.mp3"
+    },
+    {
+      "title": "My Buddy Bali",
+      "subtitle": "A Tourist in Kisses and Tears",
+      "authors": [
+        "Leu Seyer"
+      ],
+      "narrators": [
+        "Brian Dominguez"
+      ],
+      "publisher": "Miguel A. Reyes-Mariano",
+      "released": "2025-04-22",
+      "length_minutes": 275,
+      "genre": "Science fiction",
+      "series": null,
+      "language": "en",
+      "page": "https://briandominguezvoice.com/audiobooks/my-buddy-bali/",
+      "audible": "https://www.audible.com/pd/B0F5RH8P6P",
+      "apple_books": "https://books.apple.com/us/audiobook/my-buddy-bali-a-tourist-in-kisses-and-tears-unabridged/id1809950600",
+      "amazon": "https://www.amazon.com/dp/B0F5RLXG8G",
+      "sample": "https://samples.audible.com/bk/acx0/444843/bk_acx0_444843_sample.mp3"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Draft: closed to crawlers until launch.
+# Set "draft": false in data/site.json and rebuild to open it.
+User-agent: *
+Disallow: /
