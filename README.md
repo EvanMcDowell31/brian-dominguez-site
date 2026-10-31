@@ -2,7 +2,7 @@
 
 The website for Brian Dominguez: every audiobook he has narrated, a page per title with a sample and store links, and a page for authors who want to hire him.
 
-**Status: draft for Brian's review.** Nothing here is published. While `"draft": true` is set in `data/site.json`, every page carries `noindex`, `robots.txt` closes the site to crawlers, and a banner marks each page as a draft.
+**Status: live at https://briandominguezvoice.com**, served by GitHub Pages from `docs/` on `main`. Brian approved it on 2026-10-31. Setting `"draft": true` in `data/site.json` and rebuilding puts the site back behind `noindex`, a closed `robots.txt` and a draft banner.
 
 ## Build and preview
 
@@ -32,17 +32,18 @@ There's nothing to install: the build uses only Python's standard library. GitHu
 
 Google says Search ignores `llms.txt` ([guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)). It's here for other assistants and costs nothing. The structured data and clean HTML matter more.
 
-## Before launch
+## Launch checklist
 
-1. Brian reads every page and approves it, then rewrites the bio in his own words (`data/site.json` → `bio`).
-2. Add his contact: an email address or ACX profile link (`contact`), plus any social profiles (`same_as`). An optional photo goes in `src/` and `photo`.
-3. Check with each author that the cover and Audible sample can appear on the site.
-4. Register the domain **in Brian's name**. On 2026-10-31, briandominguez.com was taken, and briandominguezvoice.com, briandomingueznarrator.com and briandominguez.net were unregistered.
-5. Set `base_url` and `cname` to the domain, set `"draft": false`, and run `python3 build.py`. The build refuses to launch without contact details and a domain.
-6. Create the GitHub repository and push. In Settings → Pages, deploy from branch `main`, folder `/docs`.
-7. Verify the domain in GitHub's Pages settings before pointing DNS at it. Then add A records 185.199.108.153, .109.153, .110.153 and .111.153, AAAA records 2606:50c0:8000::153 to 8003::153, and a `www` CNAME to `<user>.github.io`. Turn on "Enforce HTTPS" ([GitHub docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)).
-8. Add the site to Google Search Console and Bing Webmaster Tools, and submit `sitemap.xml`.
-9. Paste Brian's ACX bounty links into `audible_bounty_url` for each title. A new Audible member who signs up through one pays a bounty ([ACX](https://help.acx.com/s/article/earn-with-the-bounty-program)).
+- [x] Brian approved the site (2026-10-31).
+- [x] Domain briandominguezvoice.com registered at Porkbun (2026-10-31, renews 2027-10-31).
+- [x] `base_url` and `cname` set, `"draft": false`.
+- [x] Repository on GitHub, with Pages deploying from branch `main`, folder `/docs`.
+- [ ] DNS at Porkbun: delete the parking records pointing to `uixie.porkbun.com`. Then add A records 185.199.108.153, .109.153, .110.153 and .111.153, AAAA records 2606:50c0:8000::153 to 8003::153, and a `www` CNAME to `evanmcdowell31.github.io` ([GitHub docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)).
+- [ ] Verify the domain in GitHub (Settings → Pages → Add a domain → TXT record at Porkbun), then turn on "Enforce HTTPS".
+- [ ] Brian's contact: an email address or ACX profile link (`contact`), plus any social profiles (`same_as`). An optional photo goes in `src/` and `photo`.
+- [ ] Let each author know their cover and Audible sample appear on the site.
+- [ ] Add the site to Google Search Console and Bing Webmaster Tools, and submit `sitemap.xml`.
+- [ ] Paste Brian's ACX bounty links into `audible_bounty_url` for each title. A new Audible member who signs up through one pays a bounty ([ACX](https://help.acx.com/s/article/earn-with-the-bounty-program)).
 
 ## Keeping it current
 

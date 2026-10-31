@@ -566,7 +566,8 @@ class Site:
         if contact.get("acx_profile"):
             reach.append(f'<a class="btn" href="{esc(contact["acx_profile"])}">Brian on ACX</a>')
         reach_html = ('<div class="actions">' + "".join(reach) + "</div>") if reach else \
-            '<p class="todo">Contact to come: Brian\'s email address or ACX profile link.</p>'
+            ('<p>Brian takes narration work through <a href="https://www.acx.com/">ACX</a>, '
+             'Audible\'s audiobook production marketplace. Direct contact details are coming soon.</p>')
         picks = [self.by_slug[s] for s in ("the-disavowed-the-ninth-division", "whats-so-special-about-rome", "sam-on-the-way")
                  if s in self.by_slug]
         body = f"""<section class="wrap prose-page">
@@ -676,7 +677,7 @@ class Site:
         contact = self.cfg.get("contact") or {}
         problems = []
         if not (contact.get("email") or contact.get("acx_profile")):
-            problems.append("contact: add an email address or an ACX profile link")
+            print("note: no contact yet; the authors page points to ACX until data/site.json has one")
         if not self.cfg.get("cname"):
             problems.append("cname: set the registered domain")
         if self.cfg.get("cname") and self.cfg["cname"] not in self.base:

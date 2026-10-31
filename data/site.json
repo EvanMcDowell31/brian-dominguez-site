@@ -3,7 +3,7 @@
   "role": "Audiobook narrator",
   "base_url": "https://briandominguezvoice.com",
   "cname": "briandominguezvoice.com",
-  "draft": true,
+  "draft": false,
   "updated": "2026-10-31",
   "description": "Brian Dominguez narrates audiobooks: the espionage series The Disavowed, science fiction and practical nonfiction, plus his own book, Sam on the Way.",
   "bio_short": "Brian Dominguez is an audiobook narrator with {count} titles on Audible, including the espionage series The Disavowed, and the author and narrator of Sam on the Way.",
