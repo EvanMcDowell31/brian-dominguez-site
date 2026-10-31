@@ -284,6 +284,7 @@ class Site:
     <p class="footer-name">{esc(self.name)} · {esc(self.cfg['role'])}</p>
     <p><a href="{esc(self.cfg['same_as'][0])}">All his titles on Audible</a> · <a href="{up}for-authors/">Narration for authors</a> · <a href="{up}llms.txt">llms.txt</a> · <a href="{up}audiobooks.json">Catalogue as JSON</a></p>
     <p class="fineprint">Cover art, summaries and audio samples belong to each book's rights holder and appear here to promote the audiobooks. Updated {long_date(self.cfg['updated'])}.</p>
+    <p class="fineprint">Made with <a href="https://irie-people.github.io/irie/">Irie</a></p>
   </div>
 </footer>
 </body>
